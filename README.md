@@ -14,8 +14,8 @@ My journey in information technology has led me to develop a passion for cyberse
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Artficial Intelligence			| <a href="https://github.com/VoxSecuritatis/Artificial-Intelligence">Artificial Intelligence</a>|
-| Work in Progress  				| <a href="https://google.com">Work in Progress</a>|
-| Work in Progress  				| <a href="https://google.com">Work in Progress</a>|
+| Work in Progress  				| <a href="https://github.com/VoxSecuritatis">Work in Progress</a>|
+| Work in Progress  				| <a href="https://github.com/VoxSecuritatis">Work in Progress</a>|
 
 ## Tools
 
