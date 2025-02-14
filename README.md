@@ -13,9 +13,9 @@ My journey in information technology has led me to develop a passion for cyberse
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Artficial Intelligence				        | <a href="https://github.com/VoxSecuritatis/Artificial-Intelligence">Artificial Intelligence</a>|
-| Work in Progress  					        | <a href="https://google.com">Work in Progress</a>|
-| Work in Progress  					        | <a href="https://google.com">Work in Progress</a>|
+| Artficial Intelligence			| <a href="https://github.com/VoxSecuritatis/Artificial-Intelligence">Artificial Intelligence</a>|
+| Work in Progress  				| <a href="https://google.com">Work in Progress</a>|
+| Work in Progress  				| <a href="https://google.com">Work in Progress</a>|
 
 ## Tools
 
@@ -30,7 +30,7 @@ My journey in information technology has led me to develop a passion for cyberse
 <div>
     <img src="https://img.shields.io/badge/-BitSight-1A477C?&style=for-the-badge&logo=bitsight&logoColor=white" />
     <img src="https://img.shields.io/badge/-INTROS-003366?&style=for-the-badge&logoColor=white" />
-	<img src="https://img.shields.io/badge/-AuditBoard-0053CE?&style=for-the-badge&logo=auditboard&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AuditBoard-0053CE?&style=for-the-badge&logo=auditboard&logoColor=white" />
 </div>
 
 ### SIEM
@@ -38,13 +38,35 @@ My journey in information technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
 </div>
 
+### Office
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft%20Office%20365-D83B01?&style=for-the-badge&logo=microsoftoffice&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Visio-3955A3?&style=for-the-badge&logo=microsoftvisio&logoColor=white" />
+</div>
+
+### Artificial Intelligence
+<div>
+    <img src="https://img.shields.io/badge/-ChatGPT-10A37F?&style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Copilot-258FFA?&style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Amazon%20Bedrock-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google%20Bard-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-CISSP-2C8540?&style=for-the-badge&logo=isc2&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCSP-2C8540?&style=for-the-badge&logo=isc2&logoColor=white" />
-<img src="https://img.shields.io/badge/-CRISC-F1B52D?&style=for-the-badge&logo=isaca&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCNA%20CyberOps-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-CySA%2B-2F8D46?&style=for-the-badge&logo=comptia&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CISSP-2C8540?&style=for-the-badge&logo=isc2&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCSP-2C8540?&style=for-the-badge&logo=isc2&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CRISC-F1B52D?&style=for-the-badge&logo=isaca&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCNA%20CyberOps-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CySA%2B-2F8D46?&style=for-the-badge&logo=comptia&logoColor=white" />
+</div>
+
+## Education
+<div>
+    Bachelor's in Business Administration:<p>
+	<img src="https://img.shields.io/badge/-SUNY%20Oswego-154734?&style=for-the-badge&logoColor=white" /></p>
+    Master's in Information Security:<p>
+	<img src="https://img.shields.io/badge/-Capella%20University-9D2235?&style=for-the-badge&logoColor=white" /></p>
 </div>
 
 ## Projects
