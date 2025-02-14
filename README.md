@@ -7,7 +7,7 @@ I am a veteran industry professional with a profound interest in technology and 
 
 ## Objective
 
-My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to continue being a leader through mentoring younger technicians and providing exceptional service to my employer.
+My journey in information technology has led me to develop a passion for cybersecurity, and I am now eager to continue being a leader through mentoring and providing exceptional consultation to my employer.
 
 ## Skills
 
