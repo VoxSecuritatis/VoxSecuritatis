@@ -33,11 +33,6 @@ My journey in information technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-AuditBoard-0053CE?&style=for-the-badge&logo=auditboard&logoColor=white" />
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=splunk&logoColor=white" />
-</div>
-
 ### Office
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Office%20365-D83B01?&style=for-the-badge&logo=microsoftoffice&logoColor=white" />
