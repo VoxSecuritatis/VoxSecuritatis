@@ -26,20 +26,20 @@ My journey in information technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-HID%20AAA-0064B0?&style=for-the-badge&logo=hid&logoColor=white" />
 </div>
 
-### GRC
+### Governance, Risk, and Compliance (GRC)
 <div>
     <img src="https://img.shields.io/badge/-BitSight-1A477C?&style=for-the-badge&logo=bitsight&logoColor=white" />
     <img src="https://img.shields.io/badge/-INTROS-003366?&style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-AuditBoard-0053CE?&style=for-the-badge&logo=auditboard&logoColor=white" />
 </div>
 
-### Office
+### Office / Productivity
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Office%20365-D83B01?&style=for-the-badge&logo=microsoftoffice&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Visio-3955A3?&style=for-the-badge&logo=microsoftvisio&logoColor=white" />
 </div>
 
-### Artificial Intelligence
+### Artificial Intelligence (AI)
 <div>
     <img src="https://img.shields.io/badge/-ChatGPT-10A37F?&style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Copilot-258FFA?&style=for-the-badge&logo=microsoft&logoColor=white" />
