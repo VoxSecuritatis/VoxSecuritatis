@@ -1,7 +1,7 @@
 # Welcome to VoxSecuritatis, the voice of security!  Here you will find my porfolio of projects of personal and professional interests.  From code to cloud, you will find something of interest.
 
 # Hello, I'm Brock
-<a href="https://linkedin.com/in/brockfrary" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/brockfrary" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 I am a veteran industry professional with a profound interest in technology and a dedication to solving complex problems.
 
