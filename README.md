@@ -68,3 +68,4 @@ My journey in information technology has led me to develop a passion for cyberse
 - <a href="https://github.com/VoxSecuritatis/Artificial-Intelligence">Artificial Intelligence</a>
 - Governance, Risk, and Compliance
 - Cybersecurity Operations
+- Cloud
