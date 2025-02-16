@@ -44,14 +44,13 @@ My journey in information technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-ChatGPT-10A37F?&style=for-the-badge&logo=openai&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft%20Copilot-258FFA?&style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Amazon%20Bedrock-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google%20Bard-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-CISSP-2C8540?&style=for-the-badge&logo=isc2&logoColor=white" />
     <img src="https://img.shields.io/badge/-CCSP-2C8540?&style=for-the-badge&logo=isc2&logoColor=white" />
-    <img src="https://img.shields.io/badge/-CRISC-F1B52D?&style=for-the-badge&logo=isaca&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CRISC-F1B52D?style=for-the-badge&logo=isaca&logoColor=white" />
     <img src="https://img.shields.io/badge/-CCNA%20CyberOps-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-CySA%2B-2F8D46?&style=for-the-badge&logo=comptia&logoColor=white" />
 </div>
