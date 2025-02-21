@@ -14,7 +14,7 @@ My journey in information technology has led me to develop a passion for cyberse
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Artficial Intelligence			| <a href="https://github.com/VoxSecuritatis/Artificial-Intelligence">Artificial Intelligence</a>|
-| Work in Progress  				| <a href="https://github.com/VoxSecuritatis">Work in Progress</a>|
+| Cloud		  				| <a href="https://github.com/VoxSecuritatis/Cloud">Cloud</a>|
 | Work in Progress  				| <a href="https://github.com/VoxSecuritatis">Work in Progress</a>|
 
 ## Tools
@@ -58,13 +58,13 @@ My journey in information technology has led me to develop a passion for cyberse
 ## Education
 <div>
     Bachelor's in Business Administration:<p>
-	  <a href="https://www.google.com/search?q=SUNY+at+Oswego+Bachelors+Business+Administration+degree" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-SUNY%20Oswego-154734?&style=for-the-badge&logoColor=white" /></p>
+	<a href="https://www.google.com/search?q=SUNY+at+Oswego+Bachelors+Business+Administration+degree" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-SUNY%20Oswego-154734?&style=for-the-badge&logoColor=white" /></p>
     Master's in Information Security:<p>
 	<a href="https://www.google.com/search?q=capella+university+masters+of+information+security+degree" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Capella%20University-9D2235?&style=for-the-badge&logoColor=white" /></p>
 </div>
 
 ## Projects
 - <a href="https://github.com/VoxSecuritatis/Artificial-Intelligence">Artificial Intelligence</a>
+- <a href="https://github.com/VoxSecuritatis/Cloud">Cloud</a>
 - Governance, Risk, and Compliance
 - Cybersecurity Operations
-- Cloud
