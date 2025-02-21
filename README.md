@@ -1,6 +1,6 @@
-# Vox Securitatis – The Voice of Security
+# Vox Securitatis – "The Voice of Security"
 
-## Hi there, I'm Brock! Welcome to Vox Securitatis, where cybersecurity takes center stage. This is my collection of projects — stuff I’ve worked on both for fun and in my professional journey. From cybersecurity to cloud, there’s a bit of everything here. Take a look around — there’s bound to be something that catches your eye!
+## Hi there, I'm Brock! Welcome to Vox Securitatis, where cybersecurity takes center stage. This is my collection of projects — stuff I’ve worked on both for fun and in my professional career. From cybersecurity to cloud, there’s a bit of everything here. Take a look around — there’s bound to be something that catches your eye!
 <a href="https://linkedin.com/in/brockfrary" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 I am a veteran industry professional with a profound interest in technology and a dedication to solving complex problems.
