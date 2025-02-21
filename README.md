@@ -15,7 +15,6 @@ My journey in information technology has led me to develop a passion for cyberse
 |-----------------------------------------------|----------------------------|
 | Artficial Intelligence			| <a href="https://github.com/VoxSecuritatis/Artificial-Intelligence">Artificial Intelligence</a>|
 | Cloud		  				| <a href="https://github.com/VoxSecuritatis/Cloud">Cloud</a>|
-| Work in Progress  				| <a href="https://github.com/VoxSecuritatis">Work in Progress</a>|
 
 ## Tools
 
