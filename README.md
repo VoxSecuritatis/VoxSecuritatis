@@ -16,7 +16,7 @@ My journey in information technology has led me to develop a passion for cyberse
 | Artificial Intelligence			| <a href="https://github.com/VoxSecuritatis/Artificial-Intelligence">Artificial Intelligence</a>|
 | Cloud	Computing  				| <a href="https://github.com/VoxSecuritatis/Cloud">Cloud</a>|
 | Governance, Risk, and Compliance		| <a href="https://github.com/VoxSecuritatis/GRC">GRC|
-| Python Development		| <a href=
+| Python Development		| <a href="https://github.com/VoxSecuritatis/Python">Python|
 
 ## Tools
 
