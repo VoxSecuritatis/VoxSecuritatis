@@ -66,10 +66,6 @@ My journey in information technology has led me to develop a passion for cyberse
 	<a href="https://www.google.com/search?q=capella+university+masters+of+information+security+degree" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Capella%20University-9D2235?&style=for-the-badge&logoColor=white" /></p>
 </div>
 
-<!-- This section is for holding
-## Projects
-- <a href="https://github.com/VoxSecuritatis/Artificial-Intelligence">Artificial Intelligence</a>
-- <a href="https://github.com/VoxSecuritatis/Cloud">Cloud</a>
-- Governance, Risk, and Compliance
-- Cybersecurity Operations
- -->
+---
+
+© 2025 Brock Frary. All rights reserved.
