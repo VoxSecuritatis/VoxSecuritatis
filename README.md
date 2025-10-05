@@ -2,7 +2,7 @@
 
 ### 🚀 Hello, I'm Brock — cybersecurity, cloud, and AI enthusiast.
 Welcome to my digital workshop!<br><br>
-Welcome to **Vox Securitatis**, where cybersecurity takes center stage.  
+**Vox Securitatis** is where cybersecurity takes center stage.  
 This is my collection of projects — work from both professional endeavors and personal exploration.  
 From **cybersecurity** to **cloud**, from **code** to **compliance**, there’s a bit of everything here.  
 Take a look around — there’s bound to be something that sparks your curiosity!
