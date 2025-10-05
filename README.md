@@ -26,7 +26,7 @@ Take a look around — there’s bound to be something that sparks your curiosit
 ---
 
 ## 🧭 My AI Systems Journey
-> “Artificial Intelligence isn’t replacing humans — it’s redefining how we create, analyze, and decide.”
+> “No two journeys are the same, but many find the same destination."
 
 My AI journey is fueled by curiosity, experimentation, and real-world application.  
 I’ve moved from **traditional analytics** to **agentic AI systems** capable of self-direction and contextual reasoning.
