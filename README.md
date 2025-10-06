@@ -60,8 +60,7 @@ I’ve moved from **traditional analytics** to **agentic AI systems** capable of
 ![Claude](https://img.shields.io/badge/-Anthropic%20Claude-FFD700?&style=for-the-badge&logo=anthropic&logoColor=black)
 ![Mistral](https://img.shields.io/badge/-Mistral%20AI-FF6B6B?&style=for-the-badge&logo=mistral&logoColor=white)
 ![Gemini](https://img.shields.io/badge/-Google%20Gemini-4285F4?&style=for-the-badge&logo=google&logoColor=white)
-![Groq](https://img.shields.io/badge/-Groq-E535AB?&style=for-the-badge&logo=groq&logoColor=white)
-![xAI](https://img.shields.io/badge/-xAI-000000?&style=for-the-badge&logo=xai&logoColor=white)
+![Grok](https://img.shields.io/badge/-xAI%20Grok-000000?&style=for-the-badge&logo=xai&logoColor=white)
 ![Bedrock](https://img.shields.io/badge/-Amazon%20Bedrock-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GitHub%20Models](https://img.shields.io/badge/-GitHub%20Models-1F883D?&style=for-the-badge&logo=github&logoColor=white)
 
