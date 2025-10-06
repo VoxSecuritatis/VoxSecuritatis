@@ -15,7 +15,7 @@ Take a look around — there’s bound to be something that sparks your curiosit
 
 ## 🌐 Explore My Portfolios and Projects
 
-| Domain | Repository |
+| Domain | Portfolio |
 |---------|-------------|
 | 🧠 Artificial Intelligence | <a href="https://github.com/VoxSecuritatis/Artificial-Intelligence">Artificial Intelligence</a> |
 | ☁️ Cloud Computing | <a href="https://github.com/VoxSecuritatis/Cloud">Cloud</a> |
