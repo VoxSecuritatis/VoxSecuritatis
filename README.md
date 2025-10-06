@@ -13,7 +13,7 @@ Take a look around — there’s bound to be something that sparks your curiosit
 
 ---
 
-## 🌐 Explore My Projects
+## 🌐 Explore My Portfolios and Projects
 
 | Domain | Repository |
 |---------|-------------|
