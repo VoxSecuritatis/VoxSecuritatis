@@ -55,9 +55,45 @@ I’ve moved from **traditional analytics** to **agentic AI systems** capable of
 ![Visio](https://img.shields.io/badge/-Microsoft%20Visio-3955A3?&style=for-the-badge&logo=microsoftvisio&logoColor=white)
 
 #### 🤖 AI Tooling
+##### LLMs & AI Platforms
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?&style=for-the-badge&logo=openai&logoColor=white)
-![Copilot](https://img.shields.io/badge/-Microsoft%20Copilot-258FFA?&style=for-the-badge&logo=microsoft&logoColor=white)
+![Claude](https://img.shields.io/badge/-Anthropic%20Claude-FFD700?&style=for-the-badge&logo=anthropic&logoColor=black)
+![Mistral](https://img.shields.io/badge/-Mistral%20AI-FF6B6B?&style=for-the-badge&logo=mistral&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Google%20Gemini-4285F4?&style=for-the-badge&logo=google&logoColor=white)
+![Groq](https://img.shields.io/badge/-Groq-E535AB?&style=for-the-badge&logo=groq&logoColor=white)
+![xAI](https://img.shields.io/badge/-xAI-000000?&style=for-the-badge&logo=xai&logoColor=white)
 ![Bedrock](https://img.shields.io/badge/-Amazon%20Bedrock-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub%20Models](https://img.shields.io/badge/-GitHub%20Models-1F883D?&style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+##### Frameworks & Libraries
+![LangChain](https://img.shields.io/badge/-LangChain-2B90D9?&style=for-the-badge&logo=python&logoColor=white)
+![CrewAI](https://img.shields.io/badge/-CrewAI-FF7B00?&style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?&style=for-the-badge&logo=streamlit&logoColor=white)
+![NiceGUI](https://img.shields.io/badge/-NiceGUI-6A5ACD?&style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+##### Cloud & Infrastructure
+![Google%20Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?&style=for-the-badge&logo=googlecloud&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?&style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white)
+![Amazon%20Bedrock](https://img.shields.io/badge/-Amazon%20Bedrock-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+##### Developer Tools
+![GitHub](https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white)
+![GitHub%20Codespaces](https://img.shields.io/badge/-GitHub%20Codespaces-24292F?&style=for-the-badge&logo=github&logoColor=white)
+![Copilot](https://img.shields.io/badge/-Microsoft%20Copilot-258FFA?&style=for-the-badge&logo=microsoft&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/-VS%20Code-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+##### Analytics & Visualization
+![Power%20BI](https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=powerbi&logoColor=black)
+
 
 ---
 
