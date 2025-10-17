@@ -11,6 +11,11 @@ Take a look around — there’s bound to be something that sparks your curiosit
     <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+#### My Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications at University of Texas at Austin Portfolio:
+<a href="https://www.mygreatlearning.com/eportfolio/brock-frary" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-UT%20Austin%20AI%2FML%20Portfolio-BF5700?style=for-the-badge&logo=texaslonghorns&logoColor=white">
+</a>
+
 ---
 
 ## 🌐 Explore My Portfolios and Projects
