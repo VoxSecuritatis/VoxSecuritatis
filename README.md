@@ -40,7 +40,7 @@ I’ve moved from **traditional analytics** to **agentic AI systems** capable of
 - **2023:** Python scripting, automation, and data profiling.  
 - **2024:** Prompt engineering, LLM evaluation, and AI ethics exploration.  
 - **2025:** Designing agentic architectures integrating AI governance and cybersecurity resilience.
-- **2026:** Designing, Building, and Implementing Neural Networks, GANs, NLP, Vision models
+- **2026:** Designing, Building, and Implementing Neural Networks, GANs, NLP, Vision models.
 
 ---
 
