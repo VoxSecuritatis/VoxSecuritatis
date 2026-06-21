@@ -113,4 +113,4 @@ CISSP • CCSP • CRISC • CCNA CyberOps • CySA+
 
 ---
 
-© 2026 Brock Frary — Securing the Future, One Byte at a Time.
+© 2025-2026 Brock Frary — Securing the Future, One Byte at a Time.
