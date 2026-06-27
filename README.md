@@ -108,8 +108,8 @@ I’ve moved from **traditional analytics** to **agentic AI systems** capable of
 CISSP • CCSP • CRISC • CCNA CyberOps • CySA+  
 
 **Education:**  
-- BBA, [SUNY Oswego](https://www.google.com/search?q=SUNY+at+Oswego+Bachelors+Business+Administration+degree)  
-- MS, [Capella University](https://www.google.com/search?q=capella+university+masters+of+information+security+degree)
+- Bachelor of Science, [SUNY Oswego](https://www.google.com/search?q=SUNY+at+Oswego+Bachelors+Business+Administration+degree)  
+- Master of Science, [Capella University](https://www.google.com/search?q=capella+university+masters+of+information+security+degree)
 
 ---
 
