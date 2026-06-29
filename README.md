@@ -12,13 +12,18 @@ Take a look around — there’s bound to be something that sparks your curiosit
 </a>
 
 #### Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications at University of Texas at Austin Portfolio:
+
 <a href="https://www.mygreatlearning.com/eportfolio/brock-frary" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-UT%20Austin%20AI%2FML%20Portfolio-BF5700?style=for-the-badge&logo=texaslonghorns&logoColor=white">
+  <img src="https://img.shields.io/badge/UT%20Austin%20%7C%20Artificial%20Intelligence%20and%20Machine%20Learning%3A%20Business%20Applications-BF5700?style=for-the-badge&labelColor=BF5700&color=BF5700&logo=texaslonghorns&logoColor=white" alt="UT Austin | Artificial Intelligence and Machine Learning: Business Applications">
 </a>
 
 #### Post Graduate Program in Virginia Tech Applied Agentic AI: Systems Design and Impact Portfolio:
+
 <a href="https://github.com/VoxSecuritatis/VT-Applied-Agentic-AI/" target="_blank" rel="noopener noreferrer">
-   <img src="https://img.shields.io/badge/-Virginia%20Tech%20AI%2FML%20Portfolio-861F41?style=for-the-badge&logo=virginiatech&logoColor=white">
+  <img src="https://img.shields.io/badge/VT%20AGI%20%7C%20Applied%20Agentic%20AI%3A%20Systems%2C%20Design%20%26%20Impact-861F41?style=for-the-badge&labelColor=861F41&color=861F41&logo=virginiatech&logoColor=white" alt="VT AGI | Applied Agentic AI: Systems, Design & Impact">
+</a>
+
+
 
 ---
 
