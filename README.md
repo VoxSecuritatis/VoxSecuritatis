@@ -11,10 +11,14 @@ Take a look around — there’s bound to be something that sparks your curiosit
     <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-#### My Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications at University of Texas at Austin Portfolio:
+#### Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications at University of Texas at Austin Portfolio:
 <a href="https://www.mygreatlearning.com/eportfolio/brock-frary" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-UT%20Austin%20AI%2FML%20Portfolio-BF5700?style=for-the-badge&logo=texaslonghorns&logoColor=white">
 </a>
+
+#### Post Graduate Program in Virginia Tech Applied Agentic AI: Systems Design and Impact Portfolio:
+<a href="https://github.com/VoxSecuritatis/VT-Applied-Agentic-AI/" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/-Virginia%20Tech%20AI%2FML%20Portfolio-861F41?style=for-the-badge&logo=virginiatech&logoColor=white">
 
 ---
 
