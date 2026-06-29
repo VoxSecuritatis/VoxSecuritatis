@@ -39,7 +39,7 @@ Take a look around — there’s bound to be something that sparks your curiosit
 
 ---
 
-## 🧭 My AI Systems Journey
+## 🧭 My AI Journey
 > “No two journeys are the same, but many find the same destination."
 
 My AI journey is fueled by curiosity, experimentation, and real-world application.  
