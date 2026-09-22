@@ -104,6 +104,8 @@ I’ve moved from **traditional analytics** to **agentic AI systems** capable of
 ![GitHub%20Codespaces](https://img.shields.io/badge/-GitHub%20Codespaces-24292F?&style=for-the-badge&logo=github&logoColor=white)
 ![Copilot](https://img.shields.io/badge/-Microsoft%20Copilot-258FFA?&style=for-the-badge&logo=microsoft&logoColor=white)
 ![VS%20Code](https://img.shields.io/badge/-VS%20Code-007ACC?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-000000?&style=for-the-badge&logo=openai&logoColor=white)
+![Claude%20Code](https://img.shields.io/badge/-Claude%20Code-D97757?&style=for-the-badge&logo=claude&logoColor=white)
 
 ---
 
