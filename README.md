@@ -3,7 +3,7 @@
 ### 🚀 Hello, I'm Brock — cybersecurity, cloud, and AI enthusiast.
 Welcome to my digital workshop!<br><br>
 **Vox Securitatis** is where cybersecurity takes center stage.  
-This is my collection of projects — work from both professional endeavors and personal exploration.  From **cybersecurity** to **cloud**, from **code** to **compliance**, there’s a bit of everything here.  Take a look around — there’s bound to be something that sparks your curiosity!
+This is my collection of projects -- work from both professional endeavors and personal exploration.  From **cybersecurity** to **cloud**, from **code** to **compliance**, there’s a bit of everything here.  Take a look around -- there’s bound to be something that sparks your curiosity!
 
 <a href="https://linkedin.com/in/brockfrary" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Connect%20on%20LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white">
