@@ -23,7 +23,11 @@ Take a look around — there’s bound to be something that sparks your curiosit
   <img src="https://img.shields.io/badge/VT%20AGI%20%7C%20Applied%20Agentic%20AI%3A%20Systems%2C%20Design%20%26%20Impact-861F41?style=for-the-badge&labelColor=861F41&color=861F41&logo=virginiatech&logoColor=white" alt="VT AGI | Applied Agentic AI: Systems, Design & Impact">
 </a>
 
+#### Post Graduate Program in AI Agents for Business Applicationss at University of Texas at Austin Portfolio:
 
+<a href="https://github.com/VoxSecuritatis/UTA-AIABA-Sept26-AI-Agents-for-Business-Applications)" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/UT%20Austin%20%7C%20AI%20Agents%20for%20Business%20Applications-BF5700?style=for-the-badge&labelColor=BF5700&color=BF5700&logo=texaslonghorns&logoColor=white" alt="UT Austin | AI Agents for Business Applications">
+</a>
 
 ---
 
